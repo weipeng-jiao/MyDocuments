@@ -191,11 +191,15 @@ Hexagon™ 共有4个单独的DSP，每个DSP用于特定的功能，分别是�
 软件工具和库：包含了骁龙神经处理 SDK、 Android NN 和 Hexagon NN 等。
 ```
 
-<img src="C:\Users\kaipule\Desktop\高通骁龙DSP\image\总体框架.png" alt="总体框架" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/weipeng-jiao/MyImages/master/img/%E6%80%BB%E4%BD%93%E6%A1%86%E6%9E%B6.png" alt="总体框架" style="zoom:50%;" />
 
-当前Hexagon DSP可用户可通过Hexagon DSP SDK对cDSP的标量单元和矢量单元编程开发，张量单元则是通过骁龙神经处理SDK调库使用。
+当前Hexagon DSP可用户可通过Hexagon DSP SDK对cDSP的标量单元和矢量单元编程开发，张量单元则是通过骁龙神经处理SDK调库使用。![软件架构](https://raw.githubusercontent.com/weipeng-jiao/MyDocuments/master/img/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84.png)
 
 ### 3. Hexagon™ cDSP架构
+
+
+
+
 
 
 ## 三、 HVX™ 指令集
