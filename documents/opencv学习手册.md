@@ -1,6 +1,6 @@
 [TOC]
 
-![opencv-logo](C:\Users\kaipule\Desktop\计算机视觉\opencv\image\opencv-logo.png)
+![opencv-logo](https://raw.githubusercontent.com/weipeng-jiao/MyImages/master/img/opencv-logo.png)
 
 ## 一、OpenCV简介
 
